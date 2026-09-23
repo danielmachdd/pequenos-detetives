@@ -1,0 +1,8 @@
+.DS_Store
+prompts.txt
+*.zip
+*.pdf
+node_modules/
+deliverables/
+veo3/
+
